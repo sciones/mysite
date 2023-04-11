@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Eugene Choi"
+  avatar : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kyubi_senjutsu_eye.svg/240px-Kyubi_senjutsu_eye.svg.png"
+  bio    : "I have a Bachelor's in Electronics Engineering and Master's in Computer Science"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
