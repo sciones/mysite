@@ -19,19 +19,19 @@ feature_row:
   - image_path: /assets/images/finance.jpg
     title: "Finance"
     excerpt: "The knowledge to take control of your money and making informed choices."
-    url: "/finance/"
+    url: "/categories/#finance"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/electronics.jpg
     title: "Electronics"
     excerpt: "Innovation powering the world and building the future."
-    url: "/electronics/"
+    url: "/categories/#electronics"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/coding.jpg
     title: "Coding"
     excerpt: "Solving complex algorithms, one line of code at a time."
-    url: "/coding/"
+    url: "/categories/#coding"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
