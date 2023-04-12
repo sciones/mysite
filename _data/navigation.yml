@@ -1,11 +1,11 @@
 main:
-  - title: "Splash"
-    url: /splash-page/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
+  - title: "Finance"
+    url: /splash-page/
+  - title: "Electronics"
     url: /categories/
-  - title: "Tags"
+  - title: "Coding"
     url: /tags/
   - title: "About"
     url: /about/
