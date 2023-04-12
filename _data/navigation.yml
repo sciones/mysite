@@ -4,7 +4,7 @@ main:
   - title: "Finance"
     url: /splash-page/
   - title: "Electronics"
-    url: /categories/
+    url: /categories/#coding
   - title: "Coding"
     url: /tags/
   - title: "About"
