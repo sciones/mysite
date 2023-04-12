@@ -12,9 +12,9 @@ header:
   actions:
     - label: "Read Posts"
       url: "/posts/"
-excerpt: "Read more, learn more. For knowledge is the key that unlocks the doors of opportunity, illuminates the path to success, and empowers you to navigate life's challenges."
+excerpt: "Read more and learn more, for knowledge is the key that unlocks the doors of opportunity, illuminates the path to success, and empowers you to navigate life's challenges."
 intro: 
-  - excerpt: "Welcome to our blog, where we explore the fascinating worlds of finance, electronics engineering, and computer science. Our engaging contents will inspire you to learn more about these exciting and dynamic fields."
+  - excerpt: "In today's world, finance, electronics engineering, and computer science are three of the most important and rapidly-evolving fields. Each of these disciplines plays a critical role in shaping the way we live, work, and interact with one another. From developing cutting-edge technologies to managing complex financial systems, professionals in these fields are at the forefront of innovation and progress. In this blog, we will explore the intersection of finance, electronics engineering, and computer science, and examine how these fields can work together to create new opportunities and drive positive change."
 feature_row:
   - image_path: /assets/images/finance.jpg
     title: "Finance"
@@ -36,6 +36,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro"%}
 
 {% include feature_row %}
