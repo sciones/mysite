@@ -1,5 +1,5 @@
 ---
-title: "Finance: Boglehead, what is it?"
+title: "Finance: Bogleheads, What is it?"
 date: 2023-04-12
 categories:
   - Finance
