@@ -1,12 +1,12 @@
 ---
 title: "Coding: Getting Started with Jekyll"
+date: 2023-04-11
 categories:
   - Coding
 tags:
   - Coding
   - Jekyll
 ---
-### Getting Started With Jekyll
 
 Jekyll is a static site generator that takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site's look and feel, URLs, the data displayed on the page, and more.
 
