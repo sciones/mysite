@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Eugene Choi"
   avatar : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kyubi_senjutsu_eye.svg/240px-Kyubi_senjutsu_eye.svg.png"
-  bio    : "I have a Bachelor's in Electronics Engineering and Master's in Computer Science"
+  bio    : "Georgia Tech's graduate trying to make it"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -93,7 +93,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: true
