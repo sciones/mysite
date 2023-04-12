@@ -16,9 +16,7 @@
 title: -NineNine-32Ten
 email: test@test.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The goal of the blog is to provide a valuable resource for anyone interested in learning more about 
-  electronics engineering and computer science, including basic electronics concepts, circuit designs, programmings, robotics, 
-  artificial intelligence, and machine learnings.
+  Learn More Read More.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -60,7 +58,7 @@ plugins:
 author:
   name   : "Eugene Choi"
   avatar : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kyubi_senjutsu_eye.svg/240px-Kyubi_senjutsu_eye.svg.png"
-  bio    : "Georgia Tech's graduate trying to make it"
+  bio    : "Georgia Tech's graduate: trying to make it"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
