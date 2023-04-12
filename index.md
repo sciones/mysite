@@ -12,7 +12,7 @@ header:
   actions:
     - label: "Read Posts"
       url: "/posts/"
-excerpt: "Read more, learn more. For knowledge is the key that unlocks the doors of opportunity, illuminates the path to success, and empowers you to navigate life's challenges."
+excerpt: "Read more and learn more, for knowledge is the key that unlocks the doors of opportunity, illuminates the path to success, and empowers you to navigate life's challenges."
 intro: 
   - excerpt: "In this blog, we will explore the intersection of finance, electronics engineering, and computer science, and examine how these fields can work together to create new opportunities and drive positive change."
 feature_row:
