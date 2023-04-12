@@ -4,6 +4,7 @@ date: 2023-04-12
 categories:
   - Finance
 tags:
+  - Finance
   - Financial
   - Literacy
 ---

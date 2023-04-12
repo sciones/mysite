@@ -4,6 +4,7 @@ date: 2023-04-12
 categories:
   - Electronics
 tags:
+  - Electronics
   - Op-amp
   - Operational Amplifier
 ---
