@@ -5,7 +5,7 @@ categories:
   - Finance
 tags:
   - Finance
-  - boglehead
+  - Bogleheads
 ---
 **Bogleheads**: A Beginner's Guide to the Investment Philosophy
 
