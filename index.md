@@ -24,16 +24,16 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/electronics.jpg
     title: "Electronics"
-    excerpt: "Innovation powering the world, building the future."
+    excerpt: "Innovation powering the world and building the future."
     url: "/electronics/"
     btn_label: "Read More"
-    btn_class: "btn--secondary"
+    btn_class: "btn--primary"
   - image_path: /assets/images/coding.jpg
     title: "Coding"
     excerpt: "Solving complex algorithms, one line of code at a time."
     url: "/coding/"
     btn_label: "Read More"
-    btn_class: "btn--success"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
