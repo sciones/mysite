@@ -8,7 +8,7 @@ tags:
   - Python
   - Tkinter
 ---
-**Getting Started with Tkinter**: A Guide to GUI Programming in Python
+**A Guide to GUI Programming in Python**
 
 Tkinter is a popular GUI (Graphical User Interface) programming toolkit for Python. It allows developers to create desktop applications with a visual interface that users can interact with. Tkinter comes with Python as a standard module, which makes it easy to get started with and use for creating GUI applications. In this post, we'll take a closer look at Tkinter and explore how it can be used to create desktop applications in Python.
 

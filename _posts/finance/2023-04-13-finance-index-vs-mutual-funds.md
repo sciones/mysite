@@ -8,7 +8,7 @@ tags:
   - Index Fund
   - Mutual Fund
 ---
-**Index Funds vs. Mutual Funds**: What's the Difference?
+**What's the Difference?**
 
 When it comes to investing in the stock market, mutual funds and index funds are two popular options to consider. Both types of funds offer diversification and professional management, but they differ in several key ways. In this blog post, we'll explore the differences between index funds and mutual funds, and examine the pros and cons of each.
 
