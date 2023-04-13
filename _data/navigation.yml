@@ -4,6 +4,6 @@ main:
   - title: "Archive"
     url: /posts/
   - title: "Projects"
-    url: /_pages/coming-soon.html
+    url: /coming-soon.html
   - title: "About"
     url: /about/
