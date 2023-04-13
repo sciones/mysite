@@ -4,12 +4,6 @@ main:
   - title: "Archive"
     url: /archive/
   - title: "Projects"
-<<<<<<< HEAD
     url: /projects/
-||||||| 3974d9e (Playing)
-    url: /coming-soon.html
-=======
-    url: /_pages/coming-soon.html
->>>>>>> parent of 3974d9e (Playing)
   - title: "About"
     url: /about/
