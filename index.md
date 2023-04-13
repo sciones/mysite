@@ -13,7 +13,7 @@ header:
   overlay_image: /assets/images/library.jpg
   actions:
     - label: "Read Posts"
-      url: "/categories/"
+      url: "/posts/"
 excerpt: "Read more and learn more, for knowledge is the key that unlocks the doors of opportunity, illuminates the path to success, and empowers you to navigate life's challenges."
 intro: 
   - excerpt: "In this blog, we will explore the intersection of finance, electronics engineering, and computer science, and examine how these fields can work together to create new opportunities and drive positive change."
@@ -21,19 +21,19 @@ feature_row:
   - image_path: /assets/images/finance.jpg
     title: "Finance"
     excerpt: "The knowledge to take control of your money and making informed choices."
-    url: "/categories/#finance"
+    url: "/posts/#finance"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/electronics.jpg
     title: "Electronics"
     excerpt: "Innovation powering the world and building the future."
-    url: "/categories/#electronics"
+    url: "/posts/#electronics"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/coding.jpg
     title: "Coding"
     excerpt: "Solving complex algorithms, one line of code at a time."
-    url: "/categories/#coding"
+    url: "/posts/#coding"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
