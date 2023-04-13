@@ -1,8 +1,9 @@
 main:
   - title: "Posts"
-    url: /posts/
-  - title: "Categories"
     url: /categories/
+    breadcrumbs: true
+  - title: "Archive"
+    url: /posts/
   - title: "Tags"
     url: /tags/
   - title: "About"
