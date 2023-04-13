@@ -102,7 +102,7 @@ or
 
 
 ### Footnotes
-To create a footnote, use `[^footnote]` where you want the footnote marker to appear, and then add the footnote text at the end of the document.``
+To create a footnote, use `[^footnote]` where you want the footnote marker to appear, and then add the footnote text at the end of the document.
 
 ### Abbreviations
 To create an abbreviation, use the following syntax: `*[abbreviation]`: definition*. For example:
