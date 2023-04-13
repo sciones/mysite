@@ -1,7 +1,6 @@
 main:
   - title: "Posts"
     url: /categories/
-    breadcrumbs: true
   - title: "Archive"
     url: /posts/
   - title: "Tags"
