@@ -2,13 +2,16 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: "-NineNine-32Ten"
 layout: splash
+permalink: /
 author_profile: false
 
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/library.jpg
+  actions:
     - label: "Read Posts"
       url: "/categories/"
 excerpt: "Read more and learn more, for knowledge is the key that unlocks the doors of opportunity, illuminates the path to success, and empowers you to navigate life's challenges."

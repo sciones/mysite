@@ -9,6 +9,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/library.jpg
   overlay_image: /assets/images/nature.jpg
+  actions:
     - label: "Go Home"
       url: "/"
 excerpt: "Coming Soon"
