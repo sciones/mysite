@@ -1,9 +1,9 @@
 main:
   - title: "Posts"
-    url: /categories/
-  - title: "Archive"
     url: /posts/
+  - title: "Archive"
+    url: /archive/
   - title: "Projects"
-    url: /coming-soon.html
+    url: /projects/
   - title: "About"
     url: /about/

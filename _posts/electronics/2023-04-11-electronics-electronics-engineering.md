@@ -1,7 +1,6 @@
 ---
 title: "Electronics: What is Electronics Engineering"
 date: 2023-04-11
-layout: single
 categories:
   - Electronics
 tags:
