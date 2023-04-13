@@ -6,8 +6,9 @@ categories:
 tags:
   - Coding
   - Markdown
-sidebar:
-  nav: "main"
+toc: true
+toc_label: "Markdown Navigation"
+toc_icon: "cog"
 ---
 
 Markdown is a lightweight markup language that allows you to write formatted text using a plain text editor. It is widely used for documentation, web pages, and online communication because it is simple and easy to read. Here's a tutorial on how to use Markdown:
