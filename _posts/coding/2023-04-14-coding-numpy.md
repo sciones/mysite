@@ -15,7 +15,7 @@ toc_icon: "cog"
 
 If you're interested in data analysis or scientific computing, chances are you've heard of Numpy. Numpy is a Python library that provides powerful tools for working with multi-dimensional arrays and matrices. It's widely used in data science, machine learning, and other scientific fields. In this beginner's guide, we'll explore the basics of Numpy and how to use it in Python.
 
-**Installing Numpy**
+### Installing Numpy
 
 Before we dive into the specifics of Numpy, you'll need to install it. The easiest way to do this is using pip, the Python package manager. Open your terminal or command prompt and enter the following command:
 
@@ -23,7 +23,7 @@ Before we dive into the specifics of Numpy, you'll need to install it. The easie
 
 This will download and install Numpy on your system.
 
-**Creating Numpy Arrays**
+### Creating Numpy Arrays
 
 The primary data structure in Numpy is the ndarray, or N-dimensional array. An ndarray is a homogeneous collection of values that can be indexed and manipulated efficiently. Let's start by creating a simple one-dimensional array:
 
@@ -53,7 +53,7 @@ Output:
         [4 5 6]
         [7 8 9]]
 
-**Accessing and Manipulating Array Elements**
+### Accessing and Manipulating Array Elements
 
 Now that we've created some arrays, let's look at how we can access and manipulate their elements. We can access specific elements of an array using indexing, just like we would with a regular Python list. Here's an example:
 
@@ -86,7 +86,7 @@ Numpy provides many built-in functions for performing operations on arrays, such
         print(np.min(a)) # prints 1
         print(np.max(a)) # prints 5
 
-**Broadcasting**
+### Broadcasting
 
 One of the powerful features of Numpy is broadcasting. Broadcasting is a set of rules for applying binary ufuncs (universal functions) on arrays of different sizes. In broadcasting, the smaller array is broadcast across the larger array so that they have compatible shapes. Here's an example:
 
@@ -96,7 +96,7 @@ One of the powerful features of Numpy is broadcasting. Broadcasting is a set of 
 
 In this example, the scalar value b is broadcast to the same shape as a, so we can perform element-wise multiplication between a and b.
 
-**Indexing with Boolean Arrays**
+### Indexing with Boolean Arrays
 
 Another useful feature of Numpy is indexing with boolean arrays. We can create a boolean array that specifies which elements of another array we want to select. Here's an example:
 
@@ -106,6 +106,6 @@ Another useful feature of Numpy is indexing with boolean arrays. We can create a
 
 In this example, we're using the boolean array `b` to select only the elements of `a` that correspond to `True` values in `b`.
 
-**Conclusion**
+### Conclusion
 
 In this beginner's guide to Numpy, we've covered the basics of creating arrays, accessing and manipulating their elements, performing arithmetic operations and built-in functions, broadcasting, and indexing with boolean arrays. Numpy provides a powerful set of tools for working with multi-dimensional arrays and matrices, and is essential for many applications in data science and scientific computing. With this foundation, you'll be well on your way to using Numpy effectively in your Python projects.

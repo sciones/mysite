@@ -83,12 +83,12 @@ To create a task list, use `- [ ]` for incomplete tasks and `- [x]` for complete
         - [x] Complete task 1
         - [ ] Incomplete task 2
 
-## Emoji
+### Emoji
 To add an emoji to your Markdown text, use the colon (`:`) followed by the emoji name and another colon (`:`). For example: 
 
         :smile: will render as 😀
 
-## Code Blocks
+### Code Blocks
 To create a code block, indent each line of code by four spaces or one tab. Alternatively, you can use three backticks to create a fenced code block. For example:
 
         def hello_world():
@@ -96,13 +96,16 @@ To create a code block, indent each line of code by four spaces or one tab. Alte
 
 or
 
-        ```python
+        ```
         def hello_world():
             print("Hello, world!")
+        ```
 
 
 ### Footnotes
 To create a footnote, use `[^footnote]` where you want the footnote marker to appear, and then add the footnote text at the end of the document.
+
+        This is how you add.[^footnote]
 
 ### Abbreviations
 To create an abbreviation, use the following syntax: `*[abbreviation]`: definition*. For example:
