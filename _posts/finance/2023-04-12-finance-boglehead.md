@@ -6,10 +6,15 @@ categories:
 tags:
   - Finance
   - Bogleheads
+toc: true
+toc_label: "Bogleheads"
+toc_icon: "cog"
 ---
 **Bogleheads**: A Beginner's Guide to the Investment Philosophy
 
-If you're interested in investing, you've probably come across the term "Bogleheads." This investment philosophy is named after John C. Bogle, the founder of the Vanguard Group and creator of the first index mutual fund. Bogleheads follow a simple, straightforward approach to investing that emphasizes low-cost, passive investing. In this post, we'll explore the key principles of the Boglehead philosophy and how you can implement them in your own investment strategy.
+If you're interested in investing, you've probably come across the term "Bogleheads." This investment philosophy is named after John C. Bogle, the founder of the Vanguard Group and creator of the first index mutual fund. Bogleheads follow a simple, straightforward approach to investing that emphasizes low-cost, passive investing. In this post, we'll explore the key principles of the Boglehead philosophy and how you can implement them in your own:
+
+### Investment Strategy
 
 1. **Keep it Simple**
 
@@ -31,7 +36,7 @@ Bogleheads believe in maintaining a long-term perspective when it comes to inves
 
 Finally, Bogleheads emphasize the importance of controlling your emotions when it comes to investing. They recognize that fear and greed can lead to impulsive investment decisions that can harm your long-term returns. By controlling your emotions and sticking to a well-thought-out investment strategy, you can maximize your returns over the long-term.
 
-**Implementing the Boglehead Philosophy**
+### Implementing the Boglehead Philosophy
 
 If you're interested in implementing the Boglehead philosophy in your own investment strategy, here are a few tips to get you started:
 
@@ -45,6 +50,6 @@ If you're interested in implementing the Boglehead philosophy in your own invest
 
 5. Control Your Emotions: Stick to a well-thought-out investment strategy and avoid making impulsive decisions based on fear or greed.
 
-**Conclusion**
+### Conclusion
 
 The Boglehead philosophy is a simple, straightforward approach to investing that emphasizes low-cost, passive investing, diversification, a long-term perspective, and emotional control. By following these principles, you can maximize your investment returns over the long-term while minimizing your risk. Whether you're a seasoned investor or just starting out, the Boglehead philosophy is a great way to build a solid foundation for your investment strategy.

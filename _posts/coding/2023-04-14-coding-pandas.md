@@ -115,7 +115,7 @@ This will output:
     c    Bob   35
     d  Alice   40
 
-We can access a single row from a DataFrame using the .loc[] or .iloc[] accessor. The .loc[] accessor takes a label-based index, while the .iloc[] accessor takes a positional index. For example:
+We can access a single row from a DataFrame using the `.loc[]` or `.iloc[]` accessor. The `.loc[]` accessor takes a label-based index, while the `.iloc[]` accessor takes a positional index. For example:
 
     # Access a single row using label-based index
     print(df.loc['a'])

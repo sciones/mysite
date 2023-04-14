@@ -6,11 +6,16 @@ categories:
 tags:
   - Coding
   - Jekyll
+toc: true
+toc_label: "Jekyll"
+toc_icon: "cog"
 ---
 
 Jekyll is a static site generator that takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site's look and feel, URLs, the data displayed on the page, and more.
 
-Here are the steps on how to use Jekyll to build a website:
+### Jekyll to build a website
+
+Here are the steps on how to:
 
 1. Install Jekyll. You can install Jekyll with the following command:
 

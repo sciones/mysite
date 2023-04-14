@@ -7,18 +7,21 @@ tags:
   - Coding
   - Python
   - Tkinter
+toc: true
+toc_label: "Tkinter"
+toc_icon: "cog"
 ---
 **A Guide to GUI Programming in Python**
 
 Tkinter is a popular GUI (Graphical User Interface) programming toolkit for Python. It allows developers to create desktop applications with a visual interface that users can interact with. Tkinter comes with Python as a standard module, which makes it easy to get started with and use for creating GUI applications. In this post, we'll take a closer look at Tkinter and explore how it can be used to create desktop applications in Python.
 
-**What is Tkinter?**
+### What is Tkinter?
 
 Tkinter is a Python library that provides a set of tools and widgets for creating GUI applications. It is built on top of the Tcl/Tk GUI toolkit and provides a simple and easy-to-use interface for building GUI applications. Tkinter provides a variety of GUI elements, such as buttons, labels, text boxes, and menus, that can be used to create interactive desktop applications.
 
 Tkinter is also highly customizable, allowing developers to create unique and visually appealing applications. It is an excellent choice for creating simple and lightweight applications, as well as more complex applications that require advanced features.
 
-**Getting Started with Tkinter**
+### Getting Started with Tkinter
 
 To get started with Tkinter, you'll need to have Python installed on your computer. Once you have Python installed, you can start creating GUI applications with Tkinter.
 
@@ -34,7 +37,7 @@ The next step is to create a main window for your application. You can do this b
 
 This will create a main window for your application. You can then add widgets to this window, such as buttons, labels, and text boxes.
 
-**Creating Widgets with Tkinter**
+### Creating Widgets with Tkinter
 
 Tkinter provides a wide range of widgets that you can use to create your application's user interface. Here are some of the most commonly used widgets in Tkinter:
 
@@ -50,7 +53,7 @@ To create a widget in Tkinter, you can use the widget's constructor method. For 
 
 This will create a button with the label "Click Me" and add it to the main window.
 
-**Configuring Widgets with Tkinter**
+### Configuring Widgets with Tkinter
 
 After creating a widget, you can customize its appearance and behavior by configuring its properties. Tkinter widgets have a large number of properties that can be configured, such as size, color, font, and position.
 
@@ -60,7 +63,7 @@ To configure a widget's properties, you can use the widget's configure method. F
 
 This will change the background color of the button to red.
 
-**Handling Events with Tkinter**
+### Handling Events with Tkinter
 
 In a GUI application, events are actions that the user performs, such as clicking a button or entering text. To handle events in a Tkinter application, you can define event handlers that are called when a specific event occurs.
 
@@ -75,7 +78,7 @@ You can then attach this function to the button's click event using the button's
 
 This will attach the button_clicked function to the button's left click event. When the user clicks the button, the button_clicked function will be called, and "Button Clicked!" will be printed to the console.
 
-**Pack, Grid, and Place Managers**
+### Pack, Grid, and Place Managers
 
 Tkinter provides three different layout managers that can be used to position widgets on the main window. These managers are pack, grid, and place.
 
@@ -85,6 +88,6 @@ Tkinter provides three different layout managers that can be used to position wi
 
 Choosing the right layout manager depends on the complexity of your application's user interface. For simple applications, the pack manager may be sufficient, while more complex applications may require the use of the grid or place manager.
 
-**Conclusion**
+### Conclusion
 
 Tkinter is a powerful GUI toolkit for Python that makes it easy to create desktop applications with a visual interface. In this post, we've covered the basics of Tkinter, including creating a main window, adding widgets, configuring properties, handling events, and using layout managers. With this knowledge, you can start building your own Tkinter applications and create custom desktop interfaces that are both functional and visually appealing.
