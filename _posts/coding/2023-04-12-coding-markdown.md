@@ -7,7 +7,7 @@ tags:
   - Coding
   - Markdown
 toc: true
-toc_label: "Markdown Navigation"
+toc_label: "Markdown"
 toc_icon: "cog"
 ---
 

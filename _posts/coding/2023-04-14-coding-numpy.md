@@ -7,7 +7,7 @@ tags:
   - Coding
   - Numpy
 toc: true
-toc_label: "Numpy Navigation"
+toc_label: "Numpy"
 toc_icon: "cog"
 ---
 
