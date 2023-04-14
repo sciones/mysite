@@ -7,6 +7,9 @@ tags:
   - Finance
   - Index Fund
   - Mutual Fund
+toc: true
+toc_label: "Index vs Mutual Funds"
+toc_icon: "cog"
 ---
 ### What's the Difference?
 
