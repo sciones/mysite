@@ -9,7 +9,7 @@ header:
   #overlay_filter: "0.5"
   overlay_image: /assets/images/nature.jpg
   actions:
-    - label: "Go Home"
-      url: "/"
+    - label: "Project"
+      url: "coming-soon.html"
 excerpt: "PLEASE STAND BY..."
 ---
