@@ -31,7 +31,9 @@ The third normal form (3NF) requires that every non-key column in a table is ind
 
 For example, consider a table of customer orders that includes columns for order number, customer name, customer address, and product name. To make this table 3NF compliant, we would need to split it into three tables: one for customer orders, one for customers, and one for products. The customer table would include columns for customer name and address, and the product table would include columns for product name and price.
 
-**Extra**
+### Extra
+The fourth and fifth normal forms are not as commonly used as the first, second, and third normal forms because they apply to specific types of complex data and can involve trade-offs in terms of performance and ease of use. Database designers often aim to achieve at least third normal form (3NF) and then evaluate the benefits and drawbacks of higher normal forms on a case-by-case basis.
+
 ### Fourth Normal Form (4NF)
 The fourth normal form (4NF) requires that a table does not have any multi-valued dependencies. A multi-valued dependency occurs when a single value in one column is associated with multiple values in another column.
 
