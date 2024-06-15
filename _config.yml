@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Eugene Choi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Georgia Tech's graduate: trying to make it"
+  bio    : "MSCS BSEET"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -68,7 +68,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/sciones"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
